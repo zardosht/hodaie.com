@@ -1,0 +1,25 @@
+name: Zardosht Hodaie
+markdown: redcarpet
+pygments: true
+
+# this goes inside _config.yml. Change as required
+navigation:
+- text: home
+  path: index.html
+  url: /index.html
+
+- text: programming
+  path: programming
+  url: /programming.html
+
+- text: blog
+  path: blog
+  url: /blog.html
+
+- text: وبلاگ
+  path: farsi
+  url: /farsi.html
+
+- text: c.v.
+  path: cv
+  url: /files/cv.pdf
