@@ -1,6 +1,6 @@
 ---
 layout: farsipost
-title:  "Farsi - Welcome to Jekyll!"
+title:  "Farsi - farsi farsi!"
 date:   2013-11-14 20:27:01
 categories: farsi jekyll update
 ---

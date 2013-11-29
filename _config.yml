@@ -8,17 +8,17 @@ navigation:
   path: index.html
   url: /index.html
 
-- text: programming
-  path: programming
-  url: /programming.html
-
 - text: blog
   path: blog
   url: /blog.html
 
-- text: وبلاگ
+- text: فارسی
   path: farsi
   url: /farsi.html
+
+- text: about
+  path: about.html
+  url: /about.html
 
 - text: c.v.
   path: cv
