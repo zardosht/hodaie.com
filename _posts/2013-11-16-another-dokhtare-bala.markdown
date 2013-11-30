@@ -1,7 +1,7 @@
 ---
 layout: farsipost
 title:  "یه فارسی یدگه... عجب چیزیه!"
-date:   2013-11-14 20:27:01
+date:   2013-11-16 02:27:01
 
 categories: farsi jekyll update
 

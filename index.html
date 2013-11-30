@@ -7,10 +7,26 @@ title: Zardosht's homepage
 
 	
 	<ul >
-	    {% for post in site.posts limit:1 %}
-	   		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-	            {{ post.content | strip_html | truncatewords:75}}<br>
-	            <a href="{{ post.url }}">Read more...</a><br><br>
+	    {% for post in site.posts limit:2 %}
+	    	<div class= {{ post.group }}>
+		   		<li>
+		   			<span>{{ post.date | date_to_string }}</span>  
+		   			 <a class="home-post-title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+		   		</li>
+		            {{ post.content | strip_html | truncatewords:75}}<br>
+
+	   				{% assign read_more = nil; %}
+				   	{% if post.group == 'farsi'  %}
+				    	{% assign read_more = 'ادامه...' %}
+				   	{% else %}
+				    	{% assign read_more = 'read more...' %}			
+				   	{% endif %}
+
+
+		           	<span><a href="{{ post.url }}"> {{ read_more }}</a></span> 
+		           	<br>
+		           	<br>
+	         </div>
 	    {% endfor %}
 	</ul>
 

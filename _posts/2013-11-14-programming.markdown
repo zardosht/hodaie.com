@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programming is good!"
-date:   2013-11-14 20:27:01
+date:   2013-11-14 09:17:01
 
 # In order for link underline in header to work correctly, 
 # the category for blog posts should start with blog and 

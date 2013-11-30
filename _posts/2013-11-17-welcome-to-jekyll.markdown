@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A blog post!"
-date:   2013-11-14 20:27:01
+date:   2013-11-17 10:27:01
 
 categories: blog jekyll update
 ---
