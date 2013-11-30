@@ -2,8 +2,11 @@
 layout: post
 title:  "P! Where are you?!"
 date:   2013-11-14 20:27:01
-categories: programming jekyll update
+
+categories: blog programming jekyll update
 ---
+
+<h2>{{ page.category }}</h2>
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.

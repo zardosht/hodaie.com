@@ -1,8 +1,10 @@
 ---
 layout: farsipost
-title:  "Farsi - farsi farsi!"
+title:  "یه فارسی یدگه... عجب چیزیه!"
 date:   2013-11-14 20:27:01
+
 categories: farsi jekyll update
+
 ---
 
 in yek post e farsi ast.

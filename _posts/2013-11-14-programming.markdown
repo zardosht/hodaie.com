@@ -2,7 +2,12 @@
 layout: post
 title:  "Programming is good!"
 date:   2013-11-14 20:27:01
-categories: programming jekyll update
+
+# In order for link underline in header to work correctly, 
+# the category for blog posts should start with blog and 
+# for farsi blog posts it should start with farsi
+categories: blog programming jekyll update
+
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

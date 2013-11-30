@@ -1,8 +1,10 @@
 ---
 layout: farsipost
-title:  "Another Farsi - f another arsi i!"
+title:  "فارسی -- فارسی فارسی! :)"
 date:   2013-11-14 20:27:01
 categories: farsi jekyll update
+
+group: farsi
 ---
 
 in yek post e farsi ast.

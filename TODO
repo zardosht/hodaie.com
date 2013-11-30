@@ -10,3 +10,4 @@
 * change layout of blogs, so that the first paragraph of teh blog is shown
 * add rss
 * add comments 
+* create a plugin that generates permalinks based on post group (farsi, blog). Someting like:  /:group/:categories/:year/:month/:day/:title.html
