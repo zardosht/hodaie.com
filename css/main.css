@@ -29,6 +29,11 @@ a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
+iframe.youtube-video {
+  display: block;
+  margin: 0 auto;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -53,10 +58,34 @@ a.home-post-title {
   list-style-type: none;
 }
 
-#home span {
+
+span.post-date {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+
+/* standard */
+#home pre {
+  border: 1px solid #ddd;
+  /* background-color: #eef; */
+  padding: 0 .4em;
+  background-color: transparent;
+}
+
+#home code {
+  /* border: 1px solid #ddd; */
+  /* background-color: #eef; */
+  padding: 0 .2em;              
+}
+
+.post pre code {
+  border: none;
+}
+
+.read-more {
+  margin-top: 5em;
 }
 
 /*****************************************************************************/

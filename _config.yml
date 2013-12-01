@@ -2,6 +2,8 @@ name: Zardosht Hodaie
 markdown: redcarpet
 pygments: true
 
+excerpt_separator: "<!-- excerpt-separator -->"
+
 
 # this goes inside _config.yml. Change as required
 navigation:
