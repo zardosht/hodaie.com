@@ -1,12 +1,12 @@
 * put the site to github -- DONE
 * restructure: home page shows latest two posts (persian or english), add about page -- DONE
-* implement indicator for preview part of the post
-* add some post to programming
-* add some posts to blog
+* implement indicator for preview part of the post -- DONE
+* import posts from wordpress to programming and blog
 * add some posts to farsi blog
 * write in license page (write about license of ideas)
 * put some fotos to flickr
 * add google analytics
 * add rss
 * add comments 
+* add github hook that publishes the site to hodaie.com on pushing (post-receive hook)
 * create a plugin that generates permalinks based on post group (farsi, blog). Someting like:  /:group/:categories/:year/:month/:day/:title.html
