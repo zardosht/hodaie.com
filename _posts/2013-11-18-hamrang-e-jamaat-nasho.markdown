@@ -1,7 +1,7 @@
 ---
 layout: farsipost
 title:  "همرنگ جماعت نشو!"
-date:   2013-11-18 12:27:01
+date:   2013-11-18 15:27:01
 categories: farsi jekyll update
 
 group: farsi
