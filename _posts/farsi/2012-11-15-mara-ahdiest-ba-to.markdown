@@ -1,7 +1,7 @@
 ---
 layout: farsipost
 title:  " مرا عهدیست با تو..."
-date:   2013-11-15 11:24:01
+date:   2012-11-15 11:24:01
 categories: farsi jekyll update
 
 group: farsi
