@@ -1,7 +1,7 @@
 ---
 layout: farsipost
 title:  "یه فارسی دیگه!"
-date:   2013-10-11 02:27:01
+date:   2013-11-18 02:27:01
 
 categories: farsi khayam 
 
