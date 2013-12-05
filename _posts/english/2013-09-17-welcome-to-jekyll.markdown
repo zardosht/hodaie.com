@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A blog post!"
-date:   2012-02-04 10:27:01
+title:  "I moved to Jekyll. It's amazing!"
+date:   2013-09-17 10:27:01
 
 categories: blog jekyll update
 ---

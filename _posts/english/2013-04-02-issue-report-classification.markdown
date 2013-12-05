@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Classification of issue reports into bug report of feature request"
+title:  "Bug report or feature request?"
 date:   2013-04-02 12:27:01
 
 categories: blog cs
 ---
 
+
+Classification of issue reports into bug report or feature request.
 
 More than 30 percent of the bug reports are feature requests ==> Automatically detecting if it is bug or a feature request. 
 

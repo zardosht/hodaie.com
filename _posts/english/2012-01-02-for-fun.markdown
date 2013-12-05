@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "For fun"
+date:   2012-01-12 10:27:01
+
+categories: blog cs
+---
+
+
+IF MARRIED(?x, ?y) THEN LOVES(?x, ?y) 
